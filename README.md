@@ -47,7 +47,10 @@ This repository is an **Expense Tracker CLI application** written in Go. It allo
 ---
 
 ## 🚀 How to Use
-
+1. **Install dependencies** 
+    ```sh
+    go mod tidy
+    ```
 
 2. **Run the application** with commands like:
 
@@ -59,4 +62,3 @@ This repository is an **Expense Tracker CLI application** written in Go. It allo
 
 ---
 
-> This repository is a great starting point for learning Go, working with CLI tools, and implementing persistent storage with generics.
